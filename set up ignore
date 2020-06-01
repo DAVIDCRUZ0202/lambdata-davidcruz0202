@@ -1,0 +1,35 @@
+[33mcommit b675f537bc5503bace03dccc9f40947e12a4175b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: David Cruz <dcman1211@gmail.com>
+Date:   Mon Jun 1 18:26:44 2020 -0400
+
+    set up ignore
+
+[33mcommit b8668ec236111e16fac48eeb7735a1cd8a37c9c1[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: David Cruz <dcman1211@gmail.com>
+Date:   Mon Jun 1 18:02:19 2020 -0400
+
+    Prepare to distribute package
+
+[33mcommit 3fa7aa506230cb20925d1d8211ab9c7abd61531e[m
+Author: David Cruz <dcman1211@gmail.com>
+Date:   Mon Jun 1 14:06:25 2020 -0400
+
+    Configured virtual environment, added some python files and cofigured our module
+
+[33mcommit 6e6186fbe4284adb572c8ecba6f31c5d4b5fce3e[m
+Author: David Cruz <dcman1211@gmail.com>
+Date:   Mon Jun 1 13:07:15 2020 -0400
+
+    Creates Comment
+
+[33mcommit d4afd83b8f0d3eddba180fbb574090b313083e6f[m
+Author: David Cruz <dcman1211@gmail.com>
+Date:   Mon Jun 1 13:05:24 2020 -0400
+
+    Example changes to demonstrate version control
+
+[33mcommit 8ec3e11678b63c9212438e17dc749e345127f9bb[m
+Author: David Cruz <63245486+DAVIDCRUZ0202@users.noreply.github.com>
+Date:   Mon Jun 1 12:41:29 2020 -0400
+
+    Initial commit
