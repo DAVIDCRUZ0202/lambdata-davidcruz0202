@@ -6,7 +6,7 @@ DS15 Unit 3 Sprint 1 Class 1
 TODO
 
 ```sh
-pip install ______
+pip install _i https://test.pypi.org/simple/ lambdata-davidcruz0202
 ```
 
 ## Usage
